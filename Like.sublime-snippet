@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-LIKE '${1:pattern}''
-]]></content>
-	<tabTrigger>like</tabTrigger>
-	<scope>source.sql</scope>
-	<description>Like</description>
-</snippet>
