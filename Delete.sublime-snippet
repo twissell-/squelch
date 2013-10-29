@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-DELETE FROM `${1:table}`
-WHERE ${2:condition};
-]]></content>
-	<tabTrigger>delete</tabTrigger>
-	<scope>source.sql</scope>
-	<description>Delete</description>
-</snippet>
