@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+BETWEEN ${1:a_value} AND ${2:another_value}
+]]></content>
+	<tabTrigger>between</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Between</description>
+</snippet>

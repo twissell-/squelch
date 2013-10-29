@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+GROUP BY ${1:field}
+]]></content>
+	<tabTrigger>group</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Group By</description>
+</snippet>

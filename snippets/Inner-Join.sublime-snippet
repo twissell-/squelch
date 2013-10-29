@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+INNER JOIN `${1:table}` AS ${2:an_alias}
+	ON ${3:another_alias}.${4:field} = $2.${5:field}
+
+]]></content>
+	<tabTrigger>inner</tabTrigger> 
+	<scope>source.sql</scope>
+	<description>Inner Join</description>
+</snippet>

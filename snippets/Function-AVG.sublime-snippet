@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+AVG(${1:field})
+]]></content>
+	<tabTrigger>avg</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Function: Avg</description>
+</snippet>

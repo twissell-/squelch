@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+COUNT(${1:field})
+]]></content>
+	<tabTrigger>count</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Function: Count</description>
+</snippet>

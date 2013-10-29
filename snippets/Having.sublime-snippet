@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+HAVING ${1:aggregate_function} ${2:operator} ${3:value}
+]]></content>
+	<tabTrigger>having</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Having</description>
+</snippet>

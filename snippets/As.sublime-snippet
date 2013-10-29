@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+AS ${1:alias}
+]]></content>
+	<tabTrigger>as</tabTrigger>
+	<scope>source.sql</scope>
+	<description>As</description>
+</snippet>

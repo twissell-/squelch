@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+OR ${1:condition}
+]]></content>
+	<tabTrigger>or</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Or</description>
+</snippet>
