@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+MIN($(1:field))
+]]></content>
+	<tabTrigger>min</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Function: Min</description>
+</snippet>

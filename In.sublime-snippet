@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+IN (${1:value})
+]]></content>
+	<tabTrigger>in</tabTrigger>
+	<scope>source.sql</scope>
+	<description>In</description>
+</snippet>

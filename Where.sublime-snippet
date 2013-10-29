@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+WHERE ${1:condition}
+]]></content>
+	<tabTrigger>where</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Where</description>
+</snippet>

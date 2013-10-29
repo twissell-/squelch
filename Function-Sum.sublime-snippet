@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+SUM($(1:field))
+]]></content>
+	<tabTrigger>sum</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Function: Sum</description>
+</snippet>

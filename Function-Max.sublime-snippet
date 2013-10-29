@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+MAX($(1:field))
+]]></content>
+	<tabTrigger>max</tabTrigger>
+	<scope>source.sql</scope>
+	<description>Function: Max</description>
+</snippet>

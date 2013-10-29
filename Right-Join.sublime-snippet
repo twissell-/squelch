@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+RIGHT JOIN `${1:table}` AS ${2:an_alias}
+	ON ${3:another_alias}.${4:field} = $2.${5:field}
+
+]]></content>
+	<tabTrigger>right</tabTrigger> 
+	<scope>source.sql</scope>
+	<description>Right Join</description>
+</snippet>
