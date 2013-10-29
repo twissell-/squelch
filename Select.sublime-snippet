@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-SELECT ${1:alias}.${2:fields}
-FROM `${3:table}` AS ${1:alias}
-]]></content>
-	<tabTrigger>select</tabTrigger>
-	<scope>source.sql</scope>
-	<description>Select</description>
-</snippet>
