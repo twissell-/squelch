@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-AND ${1:condition}
-]]></content>
-	<tabTrigger>and</tabTrigger>
-	<scope>source.sql</scope>
-	<description>And</description>
-</snippet>
