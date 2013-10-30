@@ -12,7 +12,7 @@ Hope Squelch be usefull to you!
 Instalation
 -----------
 
-Just download the .zip or clone the repo and unpack it in your Sublime Text SQL directory. Default location is ~/.conf/sublime-text-2/Packages/SQL.
+Just download the .zip or clone the repo and unpack it in your Sublime Text SQL directory. Default location is ~/.config/sublime-text-2/Packages/SQL.
 
 License
 -------
